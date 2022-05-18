@@ -99,5 +99,6 @@ html, body {
   font-weight: 500;
   font-size: 18px;
   line-height: 23px;
+  white-space: nowrap;
 }
 /*# sourceMappingURL=style.css.map */
