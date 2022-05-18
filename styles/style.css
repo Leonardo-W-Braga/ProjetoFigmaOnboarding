@@ -24,7 +24,9 @@ html, body {
 }
 
 #main .main-imagem {
-  width: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
   margin-bottom: 7px;
 }
 
