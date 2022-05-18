@@ -1,1 +1,100 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+html, body {
+  background-color: #f3f5f7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+}
+
+#main {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 35px;
+  background-color: white;
+  margin: 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 40px;
+  width: auto;
+}
+
+#main .main-imagem {
+  width: auto;
+  margin-bottom: 7px;
+}
+
+#main h1 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  margin-bottom: 26px;
+}
+
+#main p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  margin-bottom: 64px;
+}
+
+#main .pontos {
+  margin-bottom: 63px;
+}
+
+#main .p1 {
+  color: white;
+  text-decoration: none;
+}
+
+#main .p1 div {
+  background-color: #92e3a9;
+  padding: 12px 101px;
+  -webkit-box-shadow: 0px 4px 10px #a1c3fc;
+          box-shadow: 0px 4px 10px #a1c3fc;
+  margin-bottom: 42px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#main .p1 div h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+#main .skip {
+  color: #92e3a9;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  margin-bottom: 110px;
+}
+
+#main .p3 {
+  color: white;
+}
+
+#main .p3 div {
+  background-color: #92e3a9;
+  padding: 12px 101px;
+  -webkit-box-shadow: 0px 4px 10px #a1c3fc;
+          box-shadow: 0px 4px 10px #a1c3fc;
+  margin-bottom: 175px;
+}
+
+#main .p3 div h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+}
+/*# sourceMappingURL=style.css.map */
