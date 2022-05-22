@@ -44,7 +44,17 @@ html, body {
 }
 
 #main .pontos {
-  margin-bottom: 63px;
+  color: #92e3a9;
+  margin-bottom: 66px;
+}
+
+#main .pontos a {
+  width: 12px;
+  height: 12px;
+  top: 505px;
+  left: 176px;
+  padding: 7px;
+  text-decoration: none;
 }
 
 #main .p1 {

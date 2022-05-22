@@ -37,7 +37,17 @@ html, body{
     }
 
     .pontos{
-        margin-bottom: 63px;
+        color: $cor-main;
+        margin-bottom: 66px;
+        a{
+            width: 12px;
+            height: 12px;
+            top: 505px;
+            left: 176px;
+            padding: 7px;
+            text-decoration: none;
+            
+        }
     }
 
     .p1{
